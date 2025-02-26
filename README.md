@@ -15,7 +15,7 @@ A simple GUI application for conducting an online exam using Java Swing.
 
 6)Result Panel with final score display.
 
-# Technologies:
+# Technologies Used:
 1)Java Programming Language.
 
 2)Swing for GUI.
